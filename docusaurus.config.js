@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'UI engineering',
   tagline: 'Micro Front-End',
-  url: 'https://silvanatrabalon.github.io',
+  url: 'https://trabalonsilvana.github.io',
   baseUrl: '/my-microfe/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'silvanatrabalon', // Usually your GitHub org/user name.
+  organizationName: 'trabalonsilvana', // Usually your GitHub org/user name.
   projectName: 'my-microfe', // Usually your repo name.
 
   presets: [
