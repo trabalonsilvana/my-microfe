@@ -13,7 +13,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'trabalonsilvana', // Usually your GitHub org/user name.
   projectName: 'my-microfe', // Usually your repo name.
-
   presets: [
     [
       '@docusaurus/preset-classic',
