@@ -5,8 +5,4 @@ title: Accelerator Repository
 
 # Single SPA
 
-
-<object data="/pdf/sspa.pdf" type="application/pdf" width="1200px" height="700px">
-    <embed src="/pdf/sspa.pdf">
-    </embed>
-</object>
+<embed width="1200px" height="700px" src="https://drive.google.com/file/d/1bCvAD7vLWq7w-Y8J-AaKYipCigA-0Wux/preview" type="application/pdf"></embed>

@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/decision.svg').default,
     description: (
       <>
-        We work in build a quick way that will help you to select the better option for your product.
+        Select the better option for your product.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/team.svg').default,
     description: (
       <>
-        We work to give you quick solutions for your product's big decisions.
+        Quick solutions for your product's big decisions.
       </>
     ),
   },
